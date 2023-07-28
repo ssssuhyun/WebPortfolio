@@ -333,7 +333,7 @@ a.active {
 ==================================================*/
 
 #about {
-    padding: 100px 0;
+    padding: 200px 0 50px;
 }
 
 .about-img-div img {
@@ -351,7 +351,9 @@ a.active {
 .about-img-div img{
     border-radius: 0 180px 0 0;
 }
-
+.introduce{
+    padding-left: 90px;
+}
 /* skill section
 ==================================================*/
 #skill {

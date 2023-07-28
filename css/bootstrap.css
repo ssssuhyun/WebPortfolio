@@ -266,21 +266,6 @@ th {
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
-@font-face {
-  font-family: "Stephile Script";
-  src: url("../fonts/StephileScript-BWv4l.ttf") format("truetype");
-  font-weight: normal;
-} 
-@font-face { 
-  font-family: "온글잎 바닷바람";
-  src: url("../fonts/온글잎\ 바닷바람.ttf") format("truetype");
-  font-weight: normal;
-} 
-@font-face { 
-  font-family: "Courier New";
-  src: url("../fonts/cour.ttf") format("truetype");
-  font-weight: normal;
-} 
 .glyphicon {
   position: relative;
   top: 1px;
