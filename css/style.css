@@ -247,6 +247,7 @@ header {
     -webkit-transition: all .5s;
     transition: all .5s;
     height: 65px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 nav ul {
@@ -324,7 +325,7 @@ a.active {
    min-width: 100%;
    min-height: 100%;
    width: auto;
-   height: auto;
+   height: 980px;
    z-index: -1000;
    overflow: hidden;
 }
@@ -333,7 +334,7 @@ a.active {
 ==================================================*/
 
 #about {
-    padding: 200px 0 50px;
+    padding: 120px 0 50px;
 }
 
 .about-img-div img {
@@ -349,7 +350,8 @@ a.active {
     padding-bottom: 50px;
 }
 .about-img-div img{
-    border-radius: 0 180px 0 0;
+    margin-right: 80px;
+    padding-top: 40px;
 }
 .introduce{
     padding-left: 90px;
@@ -357,7 +359,7 @@ a.active {
 /* skill section
 ==================================================*/
 #skill {
-    padding: 100px 0;
+    padding: 50px 0 50px;
     position: relative;
 }
 .chart {
@@ -366,6 +368,9 @@ a.active {
     position: relative;
 }
 .chart span.title{
+    font-family: 'Courier New', Courier, monospace;
+    color: #2444d3;
+    font: 16px;
     position: absolute;
     display: block; 
     width: 100%; 
