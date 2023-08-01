@@ -554,8 +554,13 @@ a.active {
 }
 
 .project_btn_box{
+    width: 300px;
     text-align:left;
     padding-top:20px;
+}
+.project_btn_box a{
+    margin-right: 10px;
+    margin-bottom: 15px;
 }
 .rainbow img{
     rotate: 20deg;
